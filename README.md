@@ -4,6 +4,21 @@ This project demonstrates foundational firewall management skills and an underst
 
 ---
 
+## 📚 Table of Contents
+
+- [Tasks Covered](#tasks-covered)
+- [Steps Performed](#steps-performed)
+  - [1. Open Firewall Configuration Tool](#1-open-firewall-configuration-tool)
+  - [2. List Current Firewall Rules](#2-list-current-firewall-rules)
+  - [3. Block Inbound & Outbound Traffic for Chrome](#3-block-inbound--outbound-traffic-for-chrome)
+  - [4. Test the Rule](#4-test-the-rule)
+  - [5. Remove Test Block Rule to Restore Original State](#5-remove-test-block-rule-to-restore-original-state)
+  - [Blocking a Specific Port (Optional)](#🚫-blocking-a-specific-port-example-with-port-25---telnet)
+- [Firewall Traffic Filtering Summary](#-firewall-traffic-filtering-summary)
+- [License](#-license)
+
+---
+
 ## 🧰 Tasks Covered
 
 1. Open the firewall configuration tool (Windows Firewall).
@@ -45,6 +60,12 @@ This project demonstrates foundational firewall management skills and an underst
 - The connection should fail due to the rule blocking network traffic.
 <img width="986" alt="9" src="https://github.com/user-attachments/assets/58510fba-395c-4c88-abe6-12f8fa208baa" />
 
+### 5. Remove test block rule to restore original state.
+- Go to the inbound and outbound rules and simply delete the rules you have created.
+- And now, the program should gain access to the internet again
+<img width="1145" alt="13" src="https://github.com/user-attachments/assets/f749712f-a624-42bc-8422-1dc6e0ee25c9" />
+
+
 #### 🚫 Blocking a Specific Port (Example with Port 25 - Telnet)
 *Same steps as above, but select "Port" instead of "Program" in the rule creation process.*
 ![Block Port 25 for SMTP]
@@ -65,3 +86,10 @@ Firewalls act as a barrier between your computer and potential threats from the 
 - **Network profiles (Domain, Private, Public)**
 
 By managing these rules, users can control network access at a granular level, improving system security and monitoring.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project in accordance with the license terms.
