@@ -4,30 +4,15 @@ This project demonstrates foundational firewall management skills and an underst
 
 ---
 
-## 📚 Table of Contents
+## 📚 Tasks & Table of Contents
 
-- [Tasks Covered](#tasks-covered)
-- [Steps Performed](#steps-performed)
-  - [1. Open Firewall Configuration Tool](#1-open-firewall-configuration-tool)
-  - [2. List Current Firewall Rules](#2-list-current-firewall-rules)
-  - [3. Block Inbound & Outbound Traffic for Chrome](#3-block-inbound--outbound-traffic-for-chrome)
-  - [4. Test the Rule](#4-test-the-rule)
-  - [5. Remove Test Block Rule to Restore Original State](#5-remove-test-block-rule-to-restore-original-state)
-  - [Blocking a Specific Port (Optional)](#🚫-blocking-a-specific-port-example-with-port-25---telnet)
-- [Firewall Traffic Filtering Summary](#-firewall-traffic-filtering-summary)
-- [License](#-license)
-
----
-
-## 🧰 Tasks Covered
-
-1. Open the firewall configuration tool (Windows Firewall).
-2. List current firewall rules.
-3. Create a rule to **block inbound and outbound traffic** for a specific application (Google Chrome).
-4. Test the rule by attempting to access the internet using the blocked application.
-5. Remove the rule to restore original functionality.
-6. Document GUI steps used in the process.
-7. Summarize how firewalls filter network traffic.
+1. [Open the firewall configuration tool](#1-open-firewall-configuration-tool)
+2. [List current firewall rules](#2-list-current-firewall-rules)
+3. [Block inbound and outbound traffic for Chrome](#3-block-inbound--outbound-traffic-for-chrome)
+4. [Test the rule](#4-test-the-rule)
+5. [Remove the test block rule](#5-remove-test-block-rule-to-restore-original-state)
+6. [Summary of firewall traffic filtering](#-firewall-traffic-filtering-summary)
+7. [License](#-license)
 
 ---
 
