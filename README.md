@@ -78,11 +78,13 @@ This project demonstrates foundational firewall management skills and an underst
 ## 🧠 Firewall Traffic Filtering Summary
 Firewalls act as a barrier between your computer and potential threats from the internet. They use **rules** to determine whether to **allow or block** incoming and outgoing traffic based on:
 
-- **Program path**
-- **Port number**
-- **Protocol (TCP/UDP)**
-- **IP addresses**
-- **Network profiles (Domain, Private, Public)**
+| Filter Criteria   | Description                                |
+|-------------------|--------------------------------------------|
+| Program Path      | Blocks or allows apps by their executable  |
+| Port Number       | Filters traffic by specific TCP/UDP ports  |
+| Protocol          | Applies rules to TCP, UDP, or both          |
+| IP Addresses      | Controls traffic from/to specific IPs       |
+| Network Profiles  | Applies to Domain, Private, or Public networks |
 
 ---
 
