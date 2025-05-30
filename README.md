@@ -76,7 +76,6 @@ This project demonstrates foundational firewall management skills and an underst
 ---
 
 ## 🧠 Firewall Traffic Filtering Summary
-
 Firewalls act as a barrier between your computer and potential threats from the internet. They use **rules** to determine whether to **allow or block** incoming and outgoing traffic based on:
 
 - **Program path**
@@ -84,8 +83,6 @@ Firewalls act as a barrier between your computer and potential threats from the 
 - **Protocol (TCP/UDP)**
 - **IP addresses**
 - **Network profiles (Domain, Private, Public)**
-
-By managing these rules, users can control network access at a granular level, improving system security and monitoring.
 
 ---
 
