@@ -1,4 +1,4 @@
-## 🔥 Basic Firewall Management and Network Traffic Filtering
+## Basic Firewall Management and Network Traffic Filtering
 
 This project demonstrates foundational firewall management skills and an understanding of network traffic filtering using Windows Firewall. Instead of blocking a specific port (as originally intended), this walkthrough blocks a **specific program (Google Chrome)** using **inbound and outbound rules**, showcasing similar concepts of traffic control.
 
