@@ -47,7 +47,7 @@ This project demonstrates foundational firewall management skills and an underst
 
 #### 🚫 Blocking a Specific Port (Example with Port 25 - Telnet)
 *Same steps as above, but select "Port" instead of "Program" in the rule creation process.*
-![Block Port 25]
+![Block Port 25 for SMTP]
 <img width="1200" alt="10" src="https://github.com/user-attachments/assets/0c0b4e4b-005b-4541-99ed-cecd3906cd3b" />
 <img width="1176" alt="11" src="https://github.com/user-attachments/assets/2ff91b2d-2a07-4b6a-8678-abc2b1ae7575" />
 
@@ -65,8 +65,3 @@ Firewalls act as a barrier between your computer and potential threats from the 
 - **Network profiles (Domain, Private, Public)**
 
 By managing these rules, users can control network access at a granular level, improving system security and monitoring.
-
----
-
-## 📁 Repository Contents
-
