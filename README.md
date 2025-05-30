@@ -70,10 +70,3 @@ Firewalls act as a barrier between your computer and potential threats from the 
 | Protocol          | Applies rules to TCP, UDP, or both          |
 | IP Addresses      | Controls traffic from/to specific IPs       |
 | Network Profiles  | Applies to Domain, Private, or Public networks |
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-You are free to use, modify, and distribute this project in accordance with the license terms.
