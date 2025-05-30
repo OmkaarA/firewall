@@ -75,5 +75,5 @@ Firewalls act as a barrier between your computer and potential threats from the 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [MIT License](LICENSE).
 You are free to use, modify, and distribute this project in accordance with the license terms.
